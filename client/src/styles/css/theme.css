@@ -1,0 +1,46 @@
+a:link{
+    color: rgb(161, 135, 0);
+}
+a h3{
+    color: #000002;
+}
+.start-typing-skip a{
+    text-decoration: none;
+    color: brown;
+}
+.portfolio-item{
+    /* border: 1px solid rgb(235, 235, 235); */
+}
+
+
+/* form */
+.home-form-bottom button{
+    background: #000;
+    color: #FFF;
+    border: none;
+    border-radius: 2px;
+}
+.home-form-bottom button:hover{
+    background: #FFDA1A;
+    color: #000;
+}
+/* form error */
+.home-form-error{
+    color: rgb(255, 255, 255);
+    background: rgb(253, 75, 75);
+    border-radius: 5px;
+}
+
+/* fb button */
+.fb-log-button{
+    border-radius: 10px;
+    background: #4267B2;
+    color: #ffffff;
+    border: none;
+    transition: 2s;
+}
+.fb-log-button:hover{
+    background: rgb(25, 44, 80);
+    color: #ffffff;
+    transition: 2s;
+}
